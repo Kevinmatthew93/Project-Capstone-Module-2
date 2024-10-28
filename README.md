@@ -1,3 +1,5 @@
+# Analisis Keterlambatan TransJakarta : Klasifikasi, Penyebab, dan Solusi
+
 # 1. Latar Belakang  
 
 TransJakarta diluncurkan pada tahun 2004, merupakan sistem bus rapid transit (BRT) pertama di Asia Tenggara. Sistem ini dirancang untuk mengatasi kemacetan di Jakarta dengan menyediakan jalur khusus bagi bus, memungkinkan transportasi massal yang lebih cepat dan efisien dibandingkan kendaraan pribadi. TransJakarta telah berkembang pesat dengan perluasan rute, peningkatan jumlah armada, dan integrasi dengan moda transportasi lain seperti MRT dan LRT, demi meningkatkan aksesibilitas bagi masyarakat Jakarta. Namun, meskipun telah berhasil mengangkut jutaan penumpang setiap tahunnya, TransJakarta masih menghadapi tantangan seperti keterlambatan bus dan kemacetan di jalur busway. Ke depan, TransJakarta berupaya untuk terus berinovasi dan meningkatkan layanan demi mendukung mobilitas perkotaan yang lebih baik (Jakarta Smart City, 2023).
